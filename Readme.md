@@ -2,6 +2,8 @@
 
 This is a collection of notes and examples for the Rust programming language. The notes are based on the book [The Rust Programming Language](https://doc.rust-lang.org/book/).
 
+For hands-on experience, I recommend the [Rustlings](https://practice.rs/why-exercise.html) exercises.
+
 Compiling a independent rust program:
 
     rustc main.rs
